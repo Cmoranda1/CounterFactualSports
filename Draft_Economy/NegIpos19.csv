@@ -1,0 +1,95 @@
+,IPO Date,Symbol,Company Name,IPO Price,Current,Return,Sector,Industry,Country,Round,Pick
+190,"Mar 29, 2019",LYFT,"Lyft, Inc.",72.0,33.32,-0.537,Industrials,Road & Rail,United States,1,1
+102,"Jul 19, 2019",IFS,Intercorp Financial Services Inc.,46.0,31.6,-0.313,Financial Services,Banks-Regional,Peru,1,2
+152,"May 10, 2019",UBER,"Uber Technologies, Inc.",45.0,31.195,-0.307,Industrials,Road & Rail,United States,1,4
+60,"Sep 26, 2019",PTON,"Peloton Interactive, Inc.",29.0,20.38,-0.297,Consumer Discretionary,Leisure Products,United States,1,8
+9,"Dec 11, 2019",XP,XP Inc.,27.0,25.515,-0.055,Financials,Capital Markets,Brazil,1,10
+95,"Jul 25, 2019",HCAT,"Health Catalyst, Inc.",26.0,20.21,-0.223,Health Care,Health Care Technology,United States,1,14
+73,"Sep 12, 2019",SDC,"SmileDirectClub, Inc.",23.0,2.03,-0.912,Health Care,Health Care Equipment & Supplies,United States,1,19
+106,"Jul 18, 2019",AMK,"AssetMark Financial Holdings, Inc.",22.0,20.36,-0.07400000000000001,Financials,Capital Markets,United States,1,22
+195,"Mar 27, 2019",GNFT,Genfit S.A.,22.0,3.78,-0.828,Health Care,Biotechnology,France,1,24
+117,"Jun 28, 2019",REAL,"The RealReal, Inc.",20.0,6.165,-0.6920000000000001,Consumer Discretionary,Internet & Direct Marketing Retail,United States,1,29
+120,"Jun 27, 2019",ADPT,Adaptive Biotechnologies Corporation,20.0,9.24,-0.5379999999999999,Health Care,Life Sciences Tools & Services,United States,1,32
+158,"May 9, 2019",AXLA,"Axcella Health, Inc.",20.0,1.79,-0.91,Health Care,Biotechnology,United States,2,33
+100,"Jul 24, 2019",EIC,"Eagle Point Income Company, Inc.",19.0,16.535,-0.13,Finance and Insurance,Securities and Commodity Exchanges,United States,2,35
+46,"Oct 25, 2019",PHAT,"Phathom Pharmaceuticals, Inc.",19.0,13.6,-0.284,Health Care,Pharmaceuticals,United States,2,36
+101,"Jul 19, 2019",AFYA,Afya Limited,19.0,13.45,-0.292,Consumer Discretionary,Diversified Consumer Services,Brazil,2,37
+221,"Feb 7, 2019",ALEC,"Alector, Inc.",19.0,10.6,-0.442,Health Care,Biotechnology,United States,2,39
+132,"Jun 19, 2019",STOK,"Stoke Therapeutics, Inc.",18.0,17.65,-0.019,Health Care,Biotechnology,United States,2,43
+141,"May 23, 2019",RTLR,Rattler Midstream LP,17.5,14.04,-0.198,Energy,"Oil, Gas & Consumable Fuels",United States,2,47
+159,"May 9, 2019",CRTX,"Cortexyme, Inc.",17.0,3.78,-0.778,Health Care,Biotechnology,United States,2,49
+131,"Jun 20, 2019",PSNL,"Personalis, Inc.",17.0,5.98,-0.648,Health Care,Life Sciences Tools & Services,United States,2,51
+130,"Jun 20, 2019",BCEL,"Atreca, Inc.",17.0,2.43,-0.857,Health Care,Biotechnology,United States,2,55
+121,"Jun 27, 2019",BBIO,"BridgeBio Pharma, Inc.",17.0,10.13,-0.40399999999999997,Health Care,Biotechnology,United States,2,56
+174,"Apr 18, 2019",GNLN,"Greenlane Holdings, Inc.",17.0,0.379,-0.978,Consumer Discretionary,Distributors,United States,2,57
+147,"May 17, 2019",LKNCY,"Luckin Coffee, Inc.",17.0,8.036,-0.527,Consumer Cyclical,Restaurants,China,2,58
+43,"Oct 25, 2019",DAO,"Youdao, Inc.",17.0,6.23,-0.634,Consumer Discretionary,Diversified Consumer Services,United States,2,60
+155,"May 9, 2019",MEC,"Mayville Engineering Company, Inc.",17.0,8.67,-0.49,Materials,Metals & Mining,United States,2,61
+33,"Nov 5, 2019",QK,Q&K International Group Ltd.,17.0,1.0490000000000002,-0.938,Real Estate,Real Estate Management & Development,United States,2,63
+128,"Jun 20, 2019",AKRO,"Akero Therapeutics, Inc.",16.0,10.38,-0.35100000000000003,Health Care,Biotechnology,United States,3,66
+108,"Jul 18, 2019",FULC,"Fulcrum Therapeutics, Inc.",16.0,11.02,-0.311,Health Care,Pharmaceuticals,United States,3,68
+184,"Apr 4, 2019",NGM,"NGM Biopharmaceuticals, Inc.",16.0,14.88,-0.07,Health Care,Pharmaceuticals,United States,3,69
+22,"Nov 11, 2019",ETNB,"89bio, Inc.",16.0,2.67,-0.833,Health Care,Biotechnology,United States,3,71
+219,"Feb 8, 2019",GOSS,"Gossamer Bio, Inc.",16.0,8.89,-0.444,Health Care,Biotechnology,United States,3,72
+194,"Mar 28, 2019",DTIL,"Precision BioSciences, Inc.",16.0,2.3,-0.856,Health Care,Biotechnology,United States,3,74
+39,"Oct 31, 2019",OYST,"Oyster Point Pharma, Inc.",16.0,7.06,-0.5589999999999999,Health Care,Biotechnology,United States,3,76
+164,"May 3, 2019",SCPL,SciPlay Corporation,16.0,13.35,-0.166,Communication Services,Entertainment,United States,3,77
+104,"Jul 18, 2019",ORCC,Owl Rock Capital Corporation,15.3,14.725,-0.038,Financials,Capital Markets,United States,3,79
+215,"Feb 14, 2019",TCRR,TCR2 Therapeutics Inc.,15.0,2.4,-0.84,Health Care,Biotechnology,United States,3,82
+67,"Sep 13, 2019",STSA,"Satsuma Pharmaceuticals, Inc.",15.0,3.95,-0.737,Health Care,Pharmaceuticals,United States,3,85
+206,"Feb 28, 2019",KLDO,"Kaleido Biosciences, Inc.",15.0,0.29,-0.981,Health Care,Pharmaceuticals,United States,3,86
+58,"Oct 3, 2019",APRE,"Aprea Therapeutics, Inc.",15.0,1.52,-0.899,Health Care,Biotechnology,United States,3,88
+59,"Sep 26, 2019",OPRT,Oportun Financial Corporation,15.0,12.18,-0.188,Financials,Consumer Finance,United States,3,89
+154,"May 9, 2019",NXTC,"NextCure, Inc.",15.0,4.71,-0.6859999999999999,Health Care,Biotechnology,United States,3,91
+27,"Nov 8, 2019",KRKR,36Kr Holdings Inc.,14.5,0.82,-0.943,Communication Services,Interactive Media & Services,United States,3,92
+180,"Apr 12, 2019",JMIA,Jumia Technologies AG,14.5,7.59,-0.47700000000000004,Consumer Discretionary,Internet & Direct Marketing Retail,Germany,3,93
+76,"Aug 15, 2019",CFB,"CrossFirst Bankshares, Inc.",14.5,13.67,-0.057,Financials,Banks,United States,3,94
+182,"Apr 11, 2019",TUFN,Tufin Software Technologies Ltd.,14.0,12.91,-0.078,Information Technology,Software,Israel,3,95
+176,"Apr 18, 2019",HOOK,HOOKIPA Pharma Inc.,14.0,1.535,-0.89,Health Care,Biotechnology,United States,3,96
+218,"Feb 8, 2019",HARP,"Harpoon Therapeutics, Inc.",14.0,2.79,-0.8009999999999999,Health Care,Biotechnology,United States,4,98
+30,"Nov 7, 2019",CNTG,Centogene N.V.,14.0,3.77,-0.731,Health Care,Biotechnology,Germany,4,102
+56,"Oct 3, 2019",FREQ,"Frequency Therapeutics, Inc.",14.0,1.5,-0.893,Health Care,Biotechnology,United States,4,103
+63,"Sep 19, 2019",XGN,Exagen Inc.,14.0,6.31,-0.5489999999999999,Health Care,Health Care Providers & Services,United States,4,108
+168,"May 2, 2019",SY,So-Young International Inc.,13.8,1.455,-0.895,Communication Services,Interactive Media & Services,United States,4,110
+86,"Aug 1, 2019",SNDL,Sundial Growers Inc.,13.0,0.524,-0.96,Health Care,Pharmaceuticals,Canada,4,114
+28,"Nov 8, 2019",TELA,"TELA Bio, Inc.",13.0,9.63,-0.259,Health Care,Health Care Equipment & Supplies,United States,4,115
+35,"Nov 1, 2019",DUO,Fangdd Network Group Ltd.,13.0,0.284,-0.978,Communication Services,Interactive Media & Services,United States,4,116
+7,"Dec 12, 2019",EH,EHang Holdings Limited,12.5,9.73,-0.222,Industrials,Aerospace & Defense,United States,4,120
+40,"Oct 25, 2019",AIH,Aesthetic Medical International Holdings Group Ltd.,12.0,1.4969999999999999,-0.875,Health Care,Health Care Providers & Services,Cayman Islands,4,121
+29,"Nov 7, 2019",GRTX,"Galera Therapeutics, Inc.",12.0,1.94,-0.838,Health Care,Biotechnology,United States,4,122
+213,"Feb 15, 2019",MITO,Stealth BioTherapeutics Corp.,12.0,0.452,-0.9620000000000001,Health Care,Biotechnology,Cayman Islands,4,124
+112,"Jul 17, 2019",DOYU,DouYu International Holdings Ltd.,11.5,1.685,-0.853,Communication Services,Entertainment,China,5,129
+41,"Oct 25, 2019",CABA,"Cabaletta Bio, Inc.",11.0,1.37,-0.875,Health Care,Biotechnology,United States,5,131
+177,"Apr 17, 2019",BWAY,Brainsway Ltd.,11.0,7.79,-0.292,Health Care,Health Care Equipment & Supplies,United States,5,133
+165,"May 3, 2019",YJ,Yunji Inc.,11.0,1.06,-0.904,Consumer Discretionary,Internet & Direct Marketing Retail,United States,5,134
+151,"May 10, 2019",SONM,"Sonim Technologies, Inc.",11.0,0.664,-0.94,Information Technology,"Technology Hardware, Storage & Peripherals",United States,5,135
+208,"Feb 26, 2019",SLGG,"Super League Gaming, Inc.",11.0,1.545,-0.86,Communication Services,Interactive Media & Services,United States,5,136
+153,"May 10, 2019",JFIN,Jiayin Group Inc.,10.5,2.24,-0.787,Financials,Consumer Finance,United States,5,137
+139,"Jun 6, 2019",GOTU,"Gaotu Techedu, Inc.",10.5,1.53,-0.8540000000000001,Consumer Discretionary,Diversified Consumer Services,China,5,138
+25,"Nov 8, 2019",MOHO,ECMOHO Limited,10.0,0.218,-0.978,Consumer Discretionary,Internet & Direct Marketing Retail,China,5,140
+5,"Dec 13, 2019",OCFT,OneConnect Financial Technology Co. Ltd.,10.0,1.355,-0.865,Information Technology,Software,United States,6,161
+149,"May 14, 2019",APLT,"Applied Therapeutics, Inc.",10.0,2.06,-0.794,Health Care,Biotechnology,United States,6,188
+34,"Nov 5, 2019",MCMJ,Merida Merger Corp. I,10.0,6.53,-0.34700000000000003,Financial Services,Shell Companies,United States,7,193
+163,"May 6, 2019",TBBA,"TEB Bancorp, Inc.",10.0,9.26,-0.07400000000000001,Financial Services,Banks-Regional,United States,7,195
+161,"May 7, 2019",TRVI,"Trevi Therapeutics, Inc.",10.0,3.315,-0.6679999999999999,Health Care,Pharmaceuticals,United States,7,197
+77,"Aug 15, 2019",JFU,9F Inc.,9.5,0.82,-0.914,Communication Services,Interactive Media & Services,China,7,201
+87,"Jul 31, 2019",BORR,Borr Drilling Limited,9.3,3.92,-0.579,Energy,Oil & Gas Drilling,Bermuda,7,203
+18,"Nov 21, 2019",CAN,Canaan Inc.,9.0,3.93,-0.563,Information Technology,"Technology Hardware, Storage & Peripherals",United States,7,204
+90,"Jul 26, 2019",VIST,Vista Oil & Gas SAB de CV,9.0,8.705,-0.033,Energy,"Oil, Gas & Consumable Fuels",Mexico,7,205
+82,"Aug 5, 2019",AMTD,"AMTD International, Inc.",8.38,2.32,-0.723,Financial Services,Capital Markets,Hong Kong,7,206
+197,"Mar 20, 2019",TIGR,UP Fintech Holding Ltd.,8.0,4.12,-0.485,Financials,Capital Markets,China,7,207
+223,"Feb 4, 2019",INMB,Inmune Bio Inc.,8.0,6.905,-0.13699999999999998,Health Care,Biotechnology,United States,7,208
+2,"Dec 19, 2019",MNPR,"Monopar Therapeutics, Inc.",8.0,2.39,-0.701,Health Care,Biotechnology,United States,7,209
+191,"Mar 29, 2019",PUYI,Puyi Inc.,6.0,5.48,-0.087,Financials,Capital Markets,United States,7,211
+212,"Feb 15, 2019",HOTH,"Hoth Therapeutics, Inc.",5.6,0.623,-0.889,Health Care,Pharmaceuticals,United States,7,212
+51,"Oct 17, 2019",IPHA,Innate Pharma S.A.,5.5,3.01,-0.45299999999999996,Health Care,Biotechnology,France,7,213
+44,"Oct 25, 2019",HAPP,Happiness Biotech Group Ltd.,5.5,0.28600000000000003,-0.948,Consumer Staples,Personal Products,China,7,214
+0,"Dec 30, 2019",MKD,Molecular Data Inc.,5.38,0.134,-0.975,Basic Materials,Chemicals,United States,7,215
+216,"Feb 13, 2019",IMAC,"IMAC Holdings, Inc.",5.125,0.8,-0.8440000000000001,Health Care,Health Care Providers & Services,United States,7,216
+189,"Apr 2, 2019",PBTS,Powerbridge Technologies Co. Ltd.,5.0,0.317,-0.937,Information Technology,Software,United States,7,218
+171,"Apr 30, 2019",WAFU,Wah Fu Education Group Limited,5.0,2.77,-0.446,Consumer Discretionary,Diversified Consumer Services,United States,7,219
+167,"May 3, 2019",ATIF,ATIF Holdings Limited,5.0,3.57,-0.28600000000000003,Industrials,Professional Services,United States,7,220
+78,"Aug 14, 2019",BTOG,"China Xiangtai Food Co., Ltd.",5.0,1.0090000000000001,-0.7979999999999999,Consumer Defensive,Packaged Foods,China,7,221
+11,"Dec 5, 2019",LMPX,"LMP Automotive Holdings, Inc.",5.0,3.85,-0.23,Consumer Discretionary,Specialty Retail,United States,7,223
+230,"Jan 8, 2019",MDJH,MDJM Ltd.,5.0,2.09,-0.5820000000000001,Real Estate,Real Estate Management & Development,United States,7,224
+211,"Feb 15, 2019",AREC,American Resources Corporation,4.0,1.92,-0.52,Energy,"Oil, Gas & Consumable Fuels",United States,8,225

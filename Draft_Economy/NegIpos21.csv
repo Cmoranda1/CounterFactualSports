@@ -1,0 +1,183 @@
+,IPO Date,Symbol,Company Name,IPO Price,Current,Return,Industry,Sector,Country,Round,Pick
+617,"Apr 14, 2021",COIN,"Coinbase Global, Inc.",250.0,132.48,-0.47,Software-Application,Technology,United States,1,1
+529,"Jun 10, 2021",MNDY,monday.com Ltd.,155.0,133.78,-0.13699999999999998,Software-Application,Technology,United States,1,2
+247,"Oct 6, 2021",NVEI,Nuvei Corporation,123.14,58.72,-0.523,Software-Infrastructure,Technology,United States,1,3
+384,"Jul 28, 2021",DUOL,"Duolingo, Inc.",102.0,83.54,-0.18100000000000002,Software-Application,Technology,United States,1,4
+38,"Dec 9, 2021",HCP,"HashiCorp, Inc.",80.0,45.08,-0.436,Software-Infrastructure,Technology,United States,1,5
+614,"Apr 15, 2021",APP,AppLovin Corporation,80.0,41.02,-0.48700000000000004,Software-Application,Technology,United States,1,6
+114,"Nov 10, 2021",RIVN,"Rivian Automotive, Inc.",78.0,33.05,-0.5760000000000001,Auto Manufacturers,Consumer Cyclical,United States,1,7
+227,"Oct 14, 2021",GTLB,GitLab Inc.,77.0,46.55,-0.395,Software-Application,Technology,United States,1,8
+553,"May 20, 2021",PCOR,"Procore Technologies, Inc.",67.0,50.29,-0.249,Software-Application,Technology,United States,1,9
+90,"Nov 17, 2021",BRZE,"Braze, Inc.",65.0,40.77,-0.373,Software-Application,Technology,United States,1,10
+602,"Apr 21, 2021",PATH,"UiPath, Inc.",56.0,17.81,-0.682,Software-Infrastructure,Technology,United States,1,11
+556,"May 19, 2021",SQSP,"Squarespace, Inc.",50.0,20.66,-0.5870000000000001,Software-Infrastructure,Technology,United States,1,12
+906,"Feb 3, 2021",ONTF,"ON24, Inc.",50.0,13.33,-0.733,Software-Application,Technology,United States,1,13
+989,"Jan 13, 2021",AFRM,"Affirm Holdings, Inc.",49.0,30.77,-0.37200000000000005,IT Services,Information Technology,United States,1,14
+631,"Apr 1, 2021",KARO,Karooooo Ltd.,47.52,29.045,-0.389,Software-Application,Technology,United States,1,15
+658,"Mar 24, 2021",DOCN,"DigitalOcean Holdings, Inc.",47.0,43.045,-0.084,Software-Infrastructure,Technology,United States,1,16
+733,"Mar 10, 2021",RBLX,Roblox Corporation,45.0,34.125,-0.242,Electronic Gaming & Multimedia,Communication Services,United States,1,18
+468,"Jun 30, 2021",XMTR,"Xometry, Inc.",44.0,36.645,-0.16699999999999998,Specialty Industrial Machinery,Industrials,United States,1,19
+277,"Sep 23, 2021",RELY,"Remitly Global, Inc.",43.0,9.83,-0.7709999999999999,Software-Infrastructure,Technology,United States,1,20
+851,"Feb 11, 2021",BMBL,"Bumble, Inc.",43.0,23.15,-0.462,Software-Application,Technology,United States,1,21
+987,"Jan 14, 2021",POSH,"Poshmark, Inc.",42.0,11.85,-0.718,Internet & Direct Marketing Retail,Consumer Discretionary,United States,1,22
+283,"Sep 22, 2021",TOST,"Toast, Inc.",40.0,18.62,-0.534,Software-Infrastructure,Technology,United States,1,23
+612,"Apr 15, 2021",TSP,"TuSimple Holdings, Inc.",40.0,10.015,-0.75,Trucking,Industrials,United States,1,24
+266,"Sep 29, 2021",WRBY,"Warby Parker, Inc.",40.0,23.44,-0.414,Medical Instruments & Supplies,Health Care,United States,1,25
+768,"Mar 3, 2021",OSCR,"Oscar Health, Inc.",39.0,7.685,-0.8029999999999999,Healthcare Plans,Health Care,United States,1,26
+371,"Jul 29, 2021",HOOD,"Robinhood Markets, Inc.",38.0,10.24,-0.73,Software-Infrastructure,Technology,United States,1,27
+286,"Sep 22, 2021",FRSH,Freshworks Inc.,36.0,17.595,-0.511,Software,Information Technology,United States,1,28
+491,"Jun 24, 2021",CFLT,"Confluent, Inc.",36.0,34.485,-0.042,Software-Infrastructure,Technology,United States,1,29
+270,"Sep 28, 2021",AMPL,"Amplitude, Inc.",35.0,18.99,-0.457,Software-Application,Technology,United States,1,30
+472,"Jun 30, 2021",S,"SentinelOne, Inc.",35.0,32.69,-0.066,Software-Infrastructure,Technology,United States,1,31
+722,"Mar 11, 2021",CPNG,"Coupang, Inc.",35.0,14.03,-0.599,Internet Retail,Consumer Cyclical,United States,1,32
+636,"Mar 31, 2021",COUR,"Coursera, Inc.",33.0,20.97,-0.365,Education & Training Services,Consumer Defensive,United States,2,33
+407,"Jul 21, 2021",LAW,"CS Disco, Inc.",32.0,30.19,-0.057,Software-Application,Technology,United States,2,34
+457,"Jun 30, 2021",YOU,"Clear Secure, Inc.",31.0,28.62,-0.077,Software-Application,Technology,United States,2,35
+513,"Jun 16, 2021",WKME,WalkMe Ltd.,31.0,14.7,-0.526,Software-Application,Technology,United States,2,36
+600,"Apr 22, 2021",ZY,"Zymergen, Inc.",31.0,1.795,-0.9420000000000001,Chemicals,Basic Materials,United States,2,37
+929,"Jan 28, 2021",XM,"Qualtrics International, Inc.",30.0,21.935,-0.26899999999999996,Software-Application,Technology,United States,2,39
+616,"Apr 14, 2021",ALKT,"Alkami Technology, Inc.",30.0,11.79,-0.607,Software-Application,Technology,United States,2,40
+187,"Oct 27, 2021",INFA,Informatica Inc.,29.0,20.57,-0.29100000000000004,Software,Information Technology,United States,2,41
+168,"Oct 29, 2021",UDMY,"Udemy, Inc.",29.0,10.88,-0.625,Education & Training Services,Consumer Defensive,United States,2,42
+87,"Nov 17, 2021",IREN,Iris Energy Limited,28.0,10.7,-0.618,Capital Markets,Financial Services,Australia,2,43
+177,"Oct 28, 2021",FLNC,"Fluence Energy, Inc.",28.0,9.345,-0.6659999999999999,Utilities-Renewable,Utilities,United States,2,44
+458,"Jun 30, 2021",LZ,"LegalZoom.com, Inc.",28.0,14.49,-0.48200000000000004,Internet Content & Information,Communication Services,United States,2,47
+533,"Jun 9, 2021",MQ,"Marqeta, Inc.",27.0,9.335,-0.654,Software-Infrastructure,Technology,United States,2,48
+974,"Jan 15, 2021",PLTK,Playtika Holding Corp.,27.0,17.57,-0.349,Electronic Gaming & Multimedia,Communication Services,United States,2,49
+604,"Apr 21, 2021",DV,"DoubleVerify Holdings, Inc.",27.0,22.03,-0.184,Software-Application,Technology,United States,2,50
+109,"Nov 10, 2021",EXFY,"Expensify, Inc.",27.0,16.005,-0.40700000000000003,Software-Application,Technology,United States,2,51
+303,"Sep 15, 2021",DH,Definitive Healthcare Corp.,27.0,23.18,-0.142,Health Information Services,Health Care,United States,2,52
+307,"Sep 14, 2021",SRAD,Sportradar Group AG,27.0,12.97,-0.52,Software-Application,Technology,United States,2,53
+141,"Nov 4, 2021",EVO,Evotec SE,26.16,13.75,-0.474,Drug Manufacturers-Specialty & Generic,Health Care,Germany,2,56
+380,"Jul 28, 2021",MLNK,"MeridianLink, Inc.",26.0,17.42,-0.33,Software-Application,Technology,United States,2,57
+964,"Jan 21, 2021",MYTE,MYT Netherlands Parent B.V.,26.0,11.7,-0.55,Luxury Goods,Consumer Cyclical,United States,2,58
+278,"Sep 23, 2021",ESMT,"EngageSmart, Inc.",26.0,19.76,-0.24,Software-Infrastructure,Technology,United States,2,60
+456,"Jun 30, 2021",INTA,"Intapp, Inc.",26.0,23.94,-0.079,Software-Application,Technology,United States,2,61
+657,"Mar 24, 2021",ACVA,"ACV Auctions, Inc.",25.0,13.68,-0.45299999999999996,Software-Application,Technology,United States,2,63
+936,"Jan 27, 2021",SHLS,"Shoals Technologies Group, Inc.",25.0,10.23,-0.591,Solar,Technology,United States,3,65
+291,"Sep 16, 2021",FORG,"ForgeRock, Inc.",25.0,19.94,-0.20199999999999999,Software-Infrastructure,Technology,United States,3,66
+124,"Nov 9, 2021",TCBX,"Third Coast Bancshares, Inc.",25.0,22.57,-0.09699999999999999,Banks-Regional,Financial Services,United States,3,67
+570,"May 12, 2021",GLBE,Global-E Online Ltd.,25.0,24.63,-0.015,Internet Retail,Consumer Cyclical,United States,3,68
+856,"Feb 10, 2021",DSP,"Viant Technology, Inc.",25.0,6.56,-0.738,Software-Application,Technology,United States,3,69
+909,"Feb 3, 2021",TIXT,"TELUS International, Inc.",25.0,22.08,-0.11699999999999999,Software-Infrastructure,Technology,Canada,3,70
+701,"Mar 17, 2021",OLO,"Olo, Inc.",25.0,10.25,-0.59,Software-Application,Technology,United States,3,71
+235,"Oct 13, 2021",AVDX,"AvidXchange Holdings, Inc.",25.0,8.57,-0.657,Software-Infrastructure,Technology,United States,3,72
+901,"Feb 4, 2021",SANA,"Sana Biotechnology, Inc.",25.0,7.74,-0.69,Biotechnology,Health Care,United States,3,73
+425,"Jul 15, 2021",SGHT,"Sight Sciences, Inc.",24.0,8.18,-0.659,Medical Devices,Health Care,United States,3,74
+849,"Feb 11, 2021",SGFY,"Signify Health, Inc.",24.0,15.08,-0.37200000000000005,Health Information Services,Health Care,United States,3,75
+401,"Jul 22, 2021",BASE,"Couchbase, Inc.",24.0,16.92,-0.295,Software-Infrastructure,Technology,United States,3,78
+101,"Nov 11, 2021",WEAV,"Weave Communications, Inc.",24.0,4.91,-0.795,Software-Application,Technology,United States,3,81
+474,"Jun 29, 2021",DDL,Dingdong (Cayman) Limited,23.5,5.175,-0.78,Grocery Stores,Consumer Defensive,United States,3,82
+24,"Dec 15, 2021",IOT,Samsara Inc.,23.0,12.91,-0.439,Software-Infrastructure,Technology,United States,3,88
+611,"Apr 15, 2021",AGL,"agilon health, inc.",23.0,18.77,-0.184,Medical Care Facilities,Health Care,United States,3,90
+11,"Dec 16, 2021",SANG,Sangoma Technologies Corporation,22.68,13.44,-0.40700000000000003,Software-Infrastructure,Technology,Canada,3,91
+542,"May 27, 2021",FIGS,"FIGS, Inc.",22.0,16.0,-0.273,Apparel Manufacturing,Consumer Cyclical,United States,3,92
+568,"May 12, 2021",SMWB,Similarweb Ltd.,22.0,13.24,-0.39799999999999996,Internet Content & Information,Communication Services,United States,3,93
+259,"Oct 1, 2021",EXAI,Exscientia plc,22.0,12.92,-0.413,Biotechnology,Health Care,United States,3,94
+541,"May 27, 2021",OMIC,"Singular Genomics Systems, Inc.",22.0,4.42,-0.799,Medical Instruments & Supplies,Health Care,United States,3,95
+512,"Jun 16, 2021",MOLN,Molecular Partners AG,21.25,17.18,-0.191,Biotechnology,Health Care,Switzerland,4,97
+453,"Jul 1, 2021",CURV,"Torrid Holdings, Inc.",21.0,5.94,-0.7170000000000001,Apparel Retail,Consumer Cyclical,United States,4,98
+652,"Mar 25, 2021",VZIO,VIZIO Holding Corp.,21.0,6.705,-0.6809999999999999,Household Durables,Consumer Discretionary,United States,4,99
+758,"Mar 4, 2021",INNV,Innovage Holding Corp.,21.0,4.99,-0.762,Medical Care Facilities,Health Care,United States,4,100
+690,"Mar 18, 2021",TUYA,"Tuya, Inc.",21.0,2.775,-0.868,Software-Infrastructure,Technology,United States,4,101
+370,"Jul 29, 2021",RSKD,Riskified Ltd.,21.0,5.14,-0.755,Software-Application,Technology,United States,4,102
+420,"Jul 16, 2021",STVN,Stevanato Group S.p.A.,21.0,17.0,-0.191,Medical Instruments & Supplies,Health Care,Italy,4,104
+183,"Oct 27, 2021",RENT,"Rent The Runway, Inc.",21.0,5.57,-0.735,Apparel Retail,Consumer Cyclical,United States,4,105
+545,"May 26, 2021",PAY,"Paymentus Holdings, Inc.",21.0,17.51,-0.166,"Electronic Equipment, Instruments & Components",Information Technology,United States,4,106
+1018,"Jan 8, 2021",CGEM,"Cullinan Oncology, Inc.",21.0,10.51,-0.5,Biotechnology,Health Care,United States,4,107
+296,"Sep 15, 2021",TWKS,"Thoughtworks Holding, Inc.",21.0,19.56,-0.069,Information Technology Services,Technology,United States,4,108
+263,"Sep 30, 2021",OLPX,"Olaplex Holdings, Inc.",21.0,13.99,-0.33399999999999996,Specialty Retail,Consumer Cyclical,United States,4,109
+230,"Oct 14, 2021",IHS,IHS Holding Limited,21.0,11.185,-0.467,Telecom Services,Communication Services,Mauritius,4,110
+647,"Mar 25, 2021",CRCT,"Cricut, Inc.",20.0,12.39,-0.38,Computer Hardware,Technology,United States,4,111
+995,"Jan 13, 2021",MSGM,"Motorsport Games, Inc.",20.0,1.03,-0.948,Electronic Gaming & Multimedia,Communication Services,United States,4,112
+539,"May 28, 2021",CNTA,Centessa Pharmaceuticals PLC,20.0,8.98,-0.551,Biotechnology,Health Care,United States,4,113
+609,"Apr 16, 2021",AKYA,"Akoya Biosciences, Inc.",20.0,10.22,-0.489,Medical Instruments & Supplies,Health Care,United States,4,115
+502,"Jun 18, 2021",IPSC,"Century Therapeutics, Inc.",20.0,11.895,-0.405,Biotechnology,Health Care,United States,4,117
+430,"Jul 15, 2021",RPID,"Rapid Micro Biosystems, Inc.",20.0,5.02,-0.7490000000000001,Wireless Telecommunication Services,Communication Services,United States,4,118
+164,"Oct 29, 2021",TRDA,"Entrada Therapeutics, Inc.",20.0,6.77,-0.662,Biotechnology,Health Care,United States,4,119
+526,"Jun 10, 2021",DIBS,"1stdibs.com, Inc.",20.0,7.7,-0.615,Internet Retail,Consumer Cyclical,United States,4,120
+894,"Feb 5, 2021",PHVS,"Pharvaris, N.V",20.0,17.0,-0.15,Biotechnology,Health Care,United States,4,121
+651,"Mar 25, 2021",OLK,Olink Holding AB (publ),20.0,14.43,-0.27899999999999997,Diagnostics & Research,Health Care,United States,4,122
+891,"Feb 5, 2021",BOLT,"Bolt Biotherapeutics, Inc.",20.0,1.855,-0.907,Biotechnology,Health Care,United States,4,124
+677,"Mar 19, 2021",TIL,"Instil Bio, Inc.",20.0,8.39,-0.581,Biotechnology,Health Care,United States,4,125
+390,"Jul 23, 2021",OB,"Outbrain, Inc.",20.0,9.9,-0.505,Internet Content & Information,Communication Services,United States,4,126
+638,"Mar 26, 2021",DSGN,"Design Therapeutics, Inc.",20.0,13.5,-0.325,Biotechnology,Health Care,United States,4,127
+399,"Jul 22, 2021",INST,"Instructure Holdings, Inc.",20.0,17.51,-0.124,Software-Application,Technology,United States,5,129
+492,"Jun 24, 2021",GLUE,"Monte Rosa Therapeutics, Inc.",19.0,12.5,-0.342,Biotechnology,Health Care,United States,5,132
+171,"Oct 29, 2021",HRT,HireRight Holdings Corporation,19.0,17.22,-0.094,Staffing & Employment Services,Industrials,United States,5,133
+905,"Feb 4, 2021",SNSE,"Sensei Biotherapeutics, Inc.",19.0,1.82,-0.904,Biotechnology,Health Care,United States,5,134
+501,"Jun 18, 2021",TRMR,Tremor International Ltd.,19.0,13.01,-0.315,Advertising Agencies,Communication Services,Israel,5,135
+496,"Jun 22, 2021",YMM,Full Truck Alliance Co. Ltd.,19.0,5.04,-0.735,Software-Application,Technology,United States,5,138
+408,"Jul 21, 2021",VTEX,VTEX,19.0,5.58,-0.706,Software-Application,Technology,United States,5,139
+861,"Feb 9, 2021",ADAG,"Adagene, Inc.",19.0,3.7,-0.805,Biotechnology,Health Care,China,5,140
+511,"Jun 17, 2021",VERV,"Verve Therapeutics, Inc.",19.0,16.77,-0.11699999999999999,Biotechnology,Health Care,United States,5,141
+1017,"Jan 8, 2021",GRCL,"Gracell Biotechnologies, Inc.",19.0,2.02,-0.894,Biotechnology,Health Care,United States,5,142
+598,"Apr 23, 2021",SWIM,"Latham Group, Inc.",19.0,11.95,-0.371,Building Products & Equipment,Industrials,United States,5,143
+210,"Oct 20, 2021",SDIG,"Stronghold Digital Mining, Inc.",19.0,3.875,-0.7959999999999999,Internet Software & Services,Information Technology,United States,5,144
+678,"Mar 19, 2021",AFCG,"AFC Gamma, Inc.",19.0,16.94,-0.10800000000000001,REIT-Specialty,Real Estate,United States,5,145
+510,"Jun 17, 2021",AOMR,"Angel Oak Mortgage, Inc.",19.0,16.1,-0.153,REIT-Mortgage,Real Estate,United States,5,146
+630,"Apr 1, 2021",ULCC,"Frontier Group Holdings, Inc.",19.0,11.265,-0.40700000000000003,Airlines,Industrials,United States,5,147
+379,"Jul 28, 2021",PWSC,"PowerSchool Holdings, Inc.",18.0,14.16,-0.213,Software-Application,Technology,United States,5,149
+504,"Jun 18, 2021",CYT,"Cyteir Therapeutics, Inc.",18.0,3.22,-0.821,Biotechnology,Health Care,United States,5,150
+499,"Jun 18, 2021",AMAM,"Ambrx Biopharma, Inc.",18.0,3.89,-0.784,Biotechnology,Health Care,United States,5,151
+418,"Jul 16, 2021",BLND,"Blend Labs, Inc.",18.0,4.47,-0.752,Software-Application,Technology,United States,5,152
+396,"Jul 23, 2021",SOPH,SOPHiA GENETICS SA,18.0,7.79,-0.5670000000000001,Health Information Services,Health Care,United States,5,153
+382,"Jul 28, 2021",SNPO,Snap One Holdings Corp.,18.0,12.79,-0.289,Electronics & Computer Distribution,Technology,United States,5,154
+320,"Aug 31, 2021",DDI,"DoubleDown Interactive Co., Ltd.",18.0,11.16,-0.38,Electronic Gaming & Multimedia,Communication Services,United States,5,155
+879,"Feb 5, 2021",VOR,"Vor Biopharma, Inc.",18.0,5.55,-0.6920000000000001,Biotechnology,Health Care,United States,5,157
+633,"Apr 1, 2021",COMP,"Compass, Inc.",18.0,5.825,-0.6759999999999999,Software-Application,Technology,Liberia,5,158
+471,"Jun 30, 2021",IAS,Integral Ad Science Holding Corp.,18.0,12.5,-0.306,Advertising Agencies,Communication Services,United States,5,159
+459,"Jun 30, 2021",CVRX,"CVRx, Inc.",18.0,4.83,-0.732,Medical Devices,Health Care,United States,5,160
+607,"Apr 16, 2021",RXRX,"Recursion Pharmaceuticals, Inc.",18.0,5.96,-0.669,Biotechnology,Health Care,United States,6,161
+244,"Oct 7, 2021",LTH,"Life Time Group Holdings, Inc.",18.0,15.055,-0.16399999999999998,Leisure,Consumer Cyclical,United States,6,162
+643,"Mar 26, 2021",ALHC,"Alignment Healthcare, Inc.",18.0,9.9,-0.45,Health Care Providers & Services,Health Care,United States,6,163
+258,"Oct 1, 2021",TDCX,"TDCX, Inc.",18.0,13.05,-0.275,Specialty Business Services,Industrials,United States,6,164
+372,"Jul 29, 2021",COOK,"Traeger, Inc.",18.0,6.51,-0.638,"Furnishings, Fixtures & Appliances",Consumer Cyclical,United States,6,165
+272,"Sep 24, 2021",CWAN,"Clearwater Analytics Holdings, Inc.",18.0,17.7,-0.017,Software-Application,Technology,United States,6,166
+528,"Jun 10, 2021",LFST,"Lifestance Health Group, Inc.",18.0,9.59,-0.467,Medical Care Facilities,Health Care,United States,6,167
+634,"Mar 31, 2021",ACHL,Achilles Therapeutics plc,18.0,2.445,-0.8640000000000001,Biotechnology,Health Care,United Kingdom,6,169
+148,"Nov 4, 2021",NRDS,"NerdWallet, Inc.",18.0,9.32,-0.48200000000000004,Credit Services,Financial Services,United States,6,170
+486,"Jun 24, 2021",BHG,"Bright Health Group, Inc.",18.0,1.765,-0.902,Healthcare Plans,Health Care,United States,6,171
+256,"Oct 1, 2021",FWRG,"First Watch Restaurant Group, Inc.",18.0,12.26,-0.319,Restaurants,Consumer Cyclical,United States,6,172
+833,"Feb 12, 2021",DBTX,"Decibel Therapeutics, Inc.",18.0,2.43,-0.865,Biotechnology,Health Care,United States,6,173
+933,"Jan 28, 2021",VINP,Vinci Partners Investments Ltd.,18.0,13.025,-0.276,Asset Management,Financial Services,United States,6,174
+97,"Nov 12, 2021",MYNA,Mynaric AG,17.48,10.3,-0.41100000000000003,Communication Equipment,Technology,Germany,6,175
+388,"Jul 23, 2021",CTKB,"Cytek Biosciences, Inc.",17.0,9.495,-0.442,Medical Devices,Health Care,United States,6,177
+836,"Feb 12, 2021",NEXI,"NexImmune, Inc.",17.0,2.71,-0.841,Biotechnology,Health Care,United States,6,179
+373,"Jul 29, 2021",NUVL,"Nuvalent, Inc.",17.0,10.73,-0.369,Biotechnology,Health Care,United States,6,180
+601,"Apr 22, 2021",NPCE,"NeuroPace, Inc.",17.0,8.33,-0.51,Medical Devices,Health Care,United States,6,181
+552,"May 20, 2021",OTLY,Oatly Group AB,17.0,3.835,-0.774,Beverages-Non-Alcoholic,Consumer Defensive,United States,6,182
+876,"Feb 5, 2021",LHDX,"Lucira Health, Inc.",17.0,2.85,-0.8320000000000001,Medical Devices,Health Care,United States,6,183
+206,"Oct 21, 2021",ENFN,"Enfusion, Inc.",17.0,12.45,-0.268,Software-Application,Technology,United States,6,184
+597,"Apr 23, 2021",RAIN,"Rain Therapeutics, Inc.",17.0,4.0,-0.765,Biotechnology,Health Care,United States,6,185
+481,"Jun 25, 2021",GRPH,"Graphite Bio, Inc.",17.0,4.02,-0.763,Biotechnology,Health Care,United States,6,186
+508,"Jun 17, 2021",LYEL,"Lyell Immunopharma, Inc.",17.0,5.2,-0.6940000000000001,Biotechnology,Health Care,United States,6,188
+368,"Jul 30, 2021",OMGA,"Omega Therapeutics, Inc.",17.0,4.52,-0.7340000000000001,Biotechnology,Health Care,United States,6,189
+716,"Mar 12, 2021",HAYW,"Hayward Holdings, Inc.",17.0,16.045,-0.055999999999999994,Leisure Products,Consumer Discretionary,United States,6,190
+573,"May 7, 2021",TALS,"Talaris Therapeutics, Inc.",17.0,7.24,-0.574,Biotechnology,Health Care,United States,6,191
+884,"Feb 5, 2021",TERN,"Terns Pharmaceuticals, Inc.",17.0,2.15,-0.873,Biotechnology,Health Care,United States,6,192
+179,"Oct 28, 2021",DTC,"Solo Brands, Inc.",17.0,6.46,-0.62,Internet Retail,Consumer Cyclical,United States,7,193
+608,"Apr 16, 2021",BMEA,"Biomea Fusion, Inc.",17.0,3.23,-0.81,Biotechnology,Health Care,United States,7,194
+448,"Jul 1, 2021",EVCM,"EverCommerce, Inc.",17.0,12.8,-0.247,Software-Infrastructure,Technology,United States,7,196
+451,"Jul 1, 2021",DNUT,"Krispy Kreme, Inc.",17.0,14.29,-0.159,Grocery Stores,Consumer Defensive,United States,7,197
+524,"Jun 11, 2021",JANX,"Janux Therapeutics, Inc.",17.0,13.65,-0.19699999999999998,Biotechnology,Health Care,United States,7,198
+683,"Mar 19, 2021",FNCH,"Finch Therapeutics Group, Inc.",17.0,2.705,-0.841,Biotechnology,Health Care,United States,7,199
+963,"Jan 22, 2021",PAX,Patria Investments Limited,17.0,16.28,-0.042,Asset Management,Financial Services,United States,7,200
+622,"Apr 9, 2021",VECT,VectivBio Holding AG,17.0,5.1,-0.7,Biotechnology,Health Care,United States,7,202
+586,"Apr 30, 2021",VACC,Vaccitech plc,17.0,5.635,-0.6679999999999999,Biotechnology,Health Care,United States,7,203
+351,"Aug 6, 2021",ADGI,"Adagio Therapeutics, Inc.",17.0,2.935,-0.8270000000000001,Biotechnology,Health Care,United States,7,204
+684,"Mar 19, 2021",CNTB,Connect Biopharma Holdings Limited,17.0,2.7,-0.841,Biotechnology,Health Care,United States,7,205
+859,"Feb 10, 2021",BPTS,Biophytis S.A.,16.75,1.875,-0.888,Biotechnology,Health Care,France,7,206
+271,"Sep 24, 2021",HLTH,Cue Health Inc.,16.0,6.535,-0.5920000000000001,Health Information Services,Health Care,United States,7,209
+493,"Jun 23, 2021",CXM,"Sprinklr, Inc.",16.0,12.99,-0.188,Software-Application,Technology,United States,7,210
+476,"Jun 25, 2021",ELEV,"Elevation Oncology, Inc.",16.0,2.3,-0.856,Biotechnology,Health Care,United States,7,211
+840,"Feb 12, 2021",TLIS,Talis Biomedical Corporation,16.0,1.09,-0.932,Medical Devices,Health Care,United States,7,212
+297,"Sep 15, 2021",TYRA,"Tyra Biosciences, Inc.",16.0,8.64,-0.46,Biotechnology,Health Care,United States,7,215
+261,"Oct 1, 2021",PYXS,"Pyxis Oncology, Inc.",16.0,2.78,-0.826,Biotechnology,Health Care,United States,7,216
+99,"Nov 11, 2021",BLZE,"Backblaze, Inc.",16.0,10.0,-0.375,Software-Infrastructure,Technology,United States,7,217
+243,"Oct 7, 2021",THRX,"Theseus Pharmaceuticals, Inc.",16.0,10.21,-0.36200000000000004,Biotechnology,Health Care,United States,7,218
+400,"Jul 22, 2021",ABSI,Absci Corporation,16.0,7.11,-0.556,Biotechnology,Health Care,United States,7,219
+199,"Oct 21, 2021",VTYX,"Ventyx Biosciences, Inc.",16.0,15.955,-0.003,Biotechnology,Health Care,United States,7,221
+391,"Jul 23, 2021",CRBU,"Caribou Biosciences, Inc.",16.0,7.81,-0.512,Biotechnology,Health Care,United States,7,222
+428,"Jul 15, 2021",FXLV,"F45 Training Holdings, Inc.",16.0,9.8,-0.38799999999999996,Leisure,Consumer Cyclical,United States,7,223
+582,"May 5, 2021",HNST,"The Honest Company, Inc.",16.0,4.12,-0.743,Specialty Retail,Consumer Cyclical,United States,8,225
